@@ -8,8 +8,12 @@
   body {
     height: 100vh;
   }
-  
+
   body {
+    background-image: url("https://image.freepik.com/vetores-gratis/fundo-de-tecnologia-digital-de-fio-de-rede_1017-27428.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
     background-color: #0e0d0f;
     font-family: Roboto, Arial, sans-serif;
   }
@@ -25,7 +29,7 @@
     font-size: 32px;
     letter-spacing: 1px;
     margin: 20px 0;
-    color: white;
+    color: #0e0d0f;
   }
   
   form {
